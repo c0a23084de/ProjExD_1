@@ -36,7 +36,7 @@ def main():
             a = 0
             b = 1
         elif key_lst[pg.K_RIGHT]:
-            a = 1
+            a = 2
             b = 0
         elif key_lst[pg.K_LEFT]:
             a = -2
